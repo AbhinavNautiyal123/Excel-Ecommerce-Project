@@ -22,7 +22,7 @@ The goal is to help businesses make smarter decisions about product management, 
 
 ## **Datasets**
 
-1. ### **Supply Chain Dataset:**
+### 1.  **Supply Chain Dataset:**
    This dataset contains detailed information on customer orders, sales performance, shipping details, and product data. The key fields can be grouped into different categories:
    
    - **Type** – The type of transaction (e.g., Cash,debit,payment,transfer).
