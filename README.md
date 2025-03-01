@@ -53,6 +53,8 @@ The goal is to help businesses make smarter decisions about product management, 
    - **Product** – Name of the product that was viewed.
    - **Category** – The product's category (e.g., Electronics, Fashion).
    - **Department** – The department to which the product belongs (e.g., Home Appliances, Clothing).
+  
+     
    
 
 
