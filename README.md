@@ -10,7 +10,7 @@ We use two key datasets:
 
 By analysing these datasets, businesses can improve their supply chains and better understand how customers engage with their products online.
 
-##🎯 **Objective**
+## 🎯 **Objective**
 This project uses Microsoft Excel to:
 
 ✅ Clean and merge data for better analysis.
