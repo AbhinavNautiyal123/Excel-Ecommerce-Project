@@ -228,6 +228,13 @@ In conclusion, the process from defining objectives to dashboard analysis provid
 
 
 
+## THANKYOU FOR READING
+
+For a detailed breakdown of the data and analysis, refer to the our  Excel  project link. https://drive.google.com/file/d/1NrEIqmKRV8Gr4R5_-tMJSQauLfg17-5K/view?usp=sharing
+
+
+
+
 
 
 
