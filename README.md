@@ -54,6 +54,23 @@ The goal is to help businesses make smarter decisions about product management, 
    - **Category** – The product's category (e.g., Electronics, Fashion).
    - **Department** – The department to which the product belongs (e.g., Home Appliances, Clothing).
   
+## **Merging and Handling Null Values**
+
+1. ### **Merging**
+ he first dataset contains 70,004 rows, while the second dataset consists of 60,001 rows. To combine these two datasets, we use the Product Name column as the common key. However, due to their large size, Excel struggles to handle direct table merging efficiently. To overcome this limitation, we use the XLOOKUP function, which allows us to seamlessly retrieve matching data from one dataset to another without overwhelming Excel’s processing capabilities.
+
+2. Handling Null values:
+  The Order Zipcode column contains 60,371 null values, which accounts for over 86% of the total dataset. Additionally, the Product Description column is entirely empty, with 100% null values. Since these columns provide little to no useful information, they were removed during the merging process to streamline the dataset and improve efficiency.
+
+## **EDA**
+
+
+
+
+
+
+
+  
      
    
 
