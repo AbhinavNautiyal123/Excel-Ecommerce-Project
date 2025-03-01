@@ -44,7 +44,7 @@ The goal is to help businesses make smarter decisions about product management, 
    - **Order Item Profit Ratio** – The profit margin for each product sold.
    - **Product Status** – Indicates whether a product is in stock (0: Available, 1: Not Available)
      
-2. ### **Access Logs Dataset**
+### 2.  **Access Logs Dataset**
    This dataset captures user interactions on the website, helping businesses understand consumer behaviour, product popularity, and website performance. The key fields are:
    
    - **Date & Time** – The exact timestamp when a user accessed the website.
@@ -56,13 +56,19 @@ The goal is to help businesses make smarter decisions about product management, 
   
 ## **Merging and Handling Null Values**
 
-1. ### **Merging**
+### 1.  **Merging**
  he first dataset contains 70,004 rows, while the second dataset consists of 60,001 rows. To combine these two datasets, we use the Product Name column as the common key. However, due to their large size, Excel struggles to handle direct table merging efficiently. To overcome this limitation, we use the XLOOKUP function, which allows us to seamlessly retrieve matching data from one dataset to another without overwhelming Excel’s processing capabilities.
 
-2. Handling Null values:
+### 2. **Handling Null values:**
   The Order Zipcode column contains 60,371 null values, which accounts for over 86% of the total dataset. Additionally, the Product Description column is entirely empty, with 100% null values. Since these columns provide little to no useful information, they were removed during the merging process to streamline the dataset and improve efficiency.
 
 ## **EDA**
+
+### Q1. Calculate the average shipping delay (difference between 'Days for shipping (real)' and 'Days for shipment (scheduled)') for each product category.
+![image](https://github.com/user-attachments/assets/158a8c46-bd5c-4e5b-94f0-2c3984e7c727)
+
+The chart shows that "As Seen on TV" has the longest shipping delays, followed by Soccer, Crafts, and Pet Supplies. Music and Tennis & Racquet have the shortest delays. This suggests possible supply chain issues, high demand, or inventory problems in certain categories, impacting customer satisfaction and delivery efficiency.
+
 
 
 
