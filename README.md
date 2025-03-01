@@ -105,19 +105,76 @@ PPI = (Total Sales of Product × 0.5)+(Total Orders of Product × 0.5)
 ![image](https://github.com/user-attachments/assets/131e8a76-1d87-48dc-9768-8c6e68bdf39b)
 fitness, sports, and outdoor products are the most popular, while tech products like the Dell Laptop have significantly lower popularity in this dataset.
 
-### ** Q6 Assess customer loyalty by calculating the average number of orders per customer.**
+### **Q6 Assess customer loyalty by calculating the average number of orders per customer.**
 ![image](https://github.com/user-attachments/assets/8ed0add8-869f-4c8e-854f-42e1d1d5d4ac)
 
 Mary's orders are extremely high compared to all other customers. This suggests that either Mary is a bulk buyer, a business client, or there is an issue with the data .
 The rest of the customers have a much more balanced order distribution, with their orders ranging between 408 and 670.
 
-### ** Q7  Use a pivot table to analyze the breakdown of delivery status (e.g., on time, late) by market regions.**
+### **Q7  Use a pivot table to analyze the breakdown of delivery status (e.g., on time, late) by market regions.**
 
 ![image](https://github.com/user-attachments/assets/5aa75867-ee7f-4a5a-b265-0502652e7707)
 
 - LATAM (10,775) and Europe (10,724) have the highest late deliveries, suggesting possible logistics challenges in these regions.
 - Africa has the lowest total orders (4,521) but still sees a high late delivery rate relative to its total.
 - USCA (United States & Canada) has the fewest advance shipments (2,261) and one of the lowest on-time deliveries (1,852), indicating potential inefficiencies in North American operations.
+
+### **Q8 Determine the peak hours of website traffic and which products are most viewed during these times.**
+
+![image](https://github.com/user-attachments/assets/3058dcfb-65b7-4ebc-b9e7-86c775b1fdf4)
+
+- The morning peak (7 AM) suggests high engagement early in the day—possibly users checking the site before work.
+- The evening spike (5-7 PM) could indicate users returning after work or school.
+- Low traffic between 12-3 PM suggests inactive hours, possibly due to lunch breaks or work commitments.
+
+### **Q9  Use pivot tables to analyze which month is most popular in terms of sales**
+![image](https://github.com/user-attachments/assets/bd6ed078-1189-4c84-a46b-10295e604a0c)
+
+- April & July peaks might indicate seasonal promotions, product launches, or market trends.
+- May & June drop suggests possible market downturns, off-seasons, or reduced demand.
+- November rise could be linked to holiday or pre-festive season sales.
+
+### **Q10 Calculate the average number of product views per IP address to assess user engagement.**
+![image](https://github.com/user-attachments/assets/9d87772a-10b8-4fd8-a8da-86331e08ea90)
+
+- The highest engagement comes from IP 85.135.134.214, surpassing 9,000 views.
+Other top contributors include:
+- 205.138.87.143 (~8,500 views)
+- 102.48.80.37 (~8,000 views)
+- 198.208.104.94 (~7,500 views)
+Engagement gradually declines as we move down the list, with the lowest IP (221.60.70.14) generating around 4,500 views.
+A few IP addresses show similar engagement levels, suggesting repeated access from the same sources.
+
+
+### **Q11  Compare the monthly trends in product views from the Access Logs dataset with the monthly sales trends of those products in the Supply Chain dataset. Identify any lag or lead relationship between interest and sales**
+
+![image](https://github.com/user-attachments/assets/f2dd50e3-9b73-4608-af2a-232ff171dfe6)
+
+Observations :
+
+In early months (January to August), product views and sales follow a synchronized trend, suggesting that purchases occur shortly after viewing.
+However, from September onwards, product views decline first, followed by a delayed drop in sales (noticeable in October and November).
+This suggests that sales lag behind views by approximately one month, meaning customers browse products before making a purchase decision.
+
+Possible Reasons:
+
+- Customer Decision Time: Buyers may take time to decide before completing a purchase, leading to a delay in sales.
+- Marketing Impact: Promotional campaigns or seasonal offers may cause a temporary increase in views before sales pick up.
+- Supply Chain Delays: Inventory shortages or logistical delays might prevent immediate purchases, causing a time gap.
+- Seasonality Effect: Consumer behaviour may change due to external factors like festivals, discounts, or year-end budget constraints.
+
+## **Dashboard**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
