@@ -69,6 +69,18 @@ The goal is to help businesses make smarter decisions about product management, 
 
 The chart shows that "As Seen on TV" has the longest shipping delays, followed by Soccer, Crafts, and Pet Supplies. Music and Tennis & Racquet have the shortest delays. This suggests possible supply chain issues, high demand, or inventory problems in certain categories, impacting customer satisfaction and delivery efficiency.
 
+### Q2. Use COUNTIF and other functions to analyze the distribution of customers across different cities and countries.
+
+#### Top 20 Cities 
+![image](https://github.com/user-attachments/assets/bc488043-fb71-470c-9daa-fcce95287dde)
+The chart shows the distribution of customers across various cities, with Santo Domingo and New York City having the highest number of customers, followed by Tegucigalpa and Los Angeles. The customer base gradually decreases across other cities, with Houston, Chicago, and Sydney having the lowest numbers among the listed cities. This suggests that the business has a strong presence in certain metropolitan areas, while other cities may have lower engagement or market penetration
+
+#### Top 20 Countries
+![image](https://github.com/user-attachments/assets/a7838270-33d2-4b8c-b99a-35ea0668d920)
+The chart displays the distribution of customers across different countries. The United States has the highest number of customers, followed by Mexico and France. Other countries such as Germany, Australia, Brazil, and the UK also have a significant number of customers. The customer count gradually decreases for countries like Indonesia, Spain, El Salvador, and the Dominican Republic, with Nigeria having the lowest number of customers among the listed countries. This suggests a strong market presence in North America and parts of Europe, with relatively lower engagement in some Asian and African countries.
+
+
+
 
 
 
