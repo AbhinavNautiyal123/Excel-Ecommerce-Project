@@ -1,7 +1,7 @@
 # Excel-Ecommerce-Project
 📊 Ecommerce Supply Chain Analysis in Excel
 
-📖 Background
+## 📖 **Background**
 DataCo Analysis Group is a leading business analytics consultancy. This project, "Streamline & Spotlight," focuses on how supply chain operations and digital consumer behaviour are connected.
 
 We use two key datasets:
@@ -10,7 +10,7 @@ We use two key datasets:
 
 By analysing these datasets, businesses can improve their supply chains and better understand how customers engage with their products online.
 
-🎯 Objective
+##🎯 **Objective**
 This project uses Microsoft Excel to:
 
 ✅ Clean and merge data for better analysis.
