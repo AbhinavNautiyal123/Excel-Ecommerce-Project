@@ -1,4 +1,7 @@
-# Excel-Ecommerce-Project
+![image](https://github.com/user-attachments/assets/0d49eadf-a2c2-4791-b5fd-65a8f11e454b)
+
+
+# **Ecommerce Analytics Using Excel**
 
 ## 📖 **Background**
 DataCo Analysis Group is a leading business analytics consultancy. This project, "Streamline & Spotlight," focuses on how supply chain operations and digital consumer behaviour are connected.
