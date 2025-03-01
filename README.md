@@ -13,9 +13,9 @@ By analysing these datasets, businesses can improve their supply chains and bett
 ## 🎯 **Objective**
 This project uses Microsoft Excel to:
 
-✅ Clean and merge data for better analysis.
-✅ Find trends and patterns in supply chain and digital engagement.
-✅ Create an interactive dashboard to visualise key insights.
-✅ Suggest improvements for business growth and efficiency.
+- ✅ Clean and merge data for better analysis.
+- ✅ Find trends and patterns in supply chain and digital engagement.
+- ✅ Create an interactive dashboard to visualise key insights.
+- ✅ Suggest improvements for business growth and efficiency.
 
 The goal is to help businesses make smarter decisions about product management, marketing, and customer relationships by connecting supply chain performance with digital behaviour.
