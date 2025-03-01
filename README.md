@@ -61,7 +61,7 @@ The goal is to help businesses make smarter decisions about product management, 
 ### 2. **Handling Null values:**
   The Order Zipcode column contains 60,371 null values, which accounts for over 86% of the total dataset. Additionally, the Product Description column is entirely empty, with 100% null values. Since these columns provide little to no useful information, they were removed during the merging process to streamline the dataset and improve efficiency.
 
-## **EDA**
+## **Exploratory Data Analysis**
 
 ### **Q1. Calculate the average shipping delay (difference between 'Days for shipping (real)' and 'Days for shipment (scheduled)') for each product category.**
 ![image](https://github.com/user-attachments/assets/158a8c46-bd5c-4e5b-94f0-2c3984e7c727)
@@ -166,7 +166,7 @@ Possible Reasons:
 
 ![johnce_page-0001](https://github.com/user-attachments/assets/95691451-8e2f-498f-b4c1-ee84d770aa49)
 
-###**Observations and Insights**
+### **Observations and Insights**
 
 **1. Total Sales Over Time**
 
