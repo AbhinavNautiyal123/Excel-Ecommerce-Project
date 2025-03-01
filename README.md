@@ -101,7 +101,27 @@ The Field & Stream Sportsman 16 Gun Fire Safe is a clear leader, while the other
 
 I have Calculated PPI(product Popularity index) using this formula 
 PPI = (Total Sales of Product × 0.5)+(Total Orders of Product × 0.5)
-![image](https://github.com/user-attachments/assets/5ac0d370-de55-4faa-9478-8d8bed49b229)
+
+![image](https://github.com/user-attachments/assets/131e8a76-1d87-48dc-9768-8c6e68bdf39b)
+fitness, sports, and outdoor products are the most popular, while tech products like the Dell Laptop have significantly lower popularity in this dataset.
+
+### ** Q6 Assess customer loyalty by calculating the average number of orders per customer.**
+![image](https://github.com/user-attachments/assets/8ed0add8-869f-4c8e-854f-42e1d1d5d4ac)
+
+Mary's orders are extremely high compared to all other customers. This suggests that either Mary is a bulk buyer, a business client, or there is an issue with the data .
+The rest of the customers have a much more balanced order distribution, with their orders ranging between 408 and 670.
+
+### ** Q7  Use a pivot table to analyze the breakdown of delivery status (e.g., on time, late) by market regions.**
+
+![image](https://github.com/user-attachments/assets/5aa75867-ee7f-4a5a-b265-0502652e7707)
+
+- LATAM (10,775) and Europe (10,724) have the highest late deliveries, suggesting possible logistics challenges in these regions.
+- Africa has the lowest total orders (4,521) but still sees a high late delivery rate relative to its total.
+- USCA (United States & Canada) has the fewest advance shipments (2,261) and one of the lowest on-time deliveries (1,852), indicating potential inefficiencies in North American operations.
+
+
+
+
 
 
 
