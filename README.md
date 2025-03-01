@@ -165,12 +165,66 @@ Possible Reasons:
 
 ## **Dashboard**
 
+![johnce_page-0001](https://github.com/user-attachments/assets/95691451-8e2f-498f-b4c1-ee84d770aa49)
 
+###**Observations and Insights**
 
+**1. Total Sales Over Time**
 
+ - Sales fluctuate throughout the year, with a noticeable dip in January and December.
+ - The sales trend appears relatively stable from March to November, with minor fluctuations.
+ - Potential reasons for the sales dip in December could be seasonality effects, reduced promotions, or budget constraints.
+   
+**2. Product View Trend**
 
+- Product views peaked in January (7027 views) but showed a sharp decline in February.
+- The number of views remained relatively consistent from March to August, with minor variations.
+- There was a steep drop in September, continuing to decline until December.
+- This may indicate a seasonal shift in consumer interest or marketing efforts affecting engagement.
+  
+**3. Most Viewed Products**
 
+- The top three most viewed products are:
+  -- Perfect Fitness Perfect Rip Deck (9322 views)
+  -- Nike Men's CJ Elite 2 TD Football Cleat (9328 views)
+  -- Nike Men's Dri-FIT Victory Golf Polo (9025 views)
+The sports and fitness category dominates product views, suggesting high interest in this sector.
 
+**4. Top Performing Products (Sales Volume)**
+
+The best-selling products are:
+-- adidas Youth Green/Black Away Robe (28210 sales)
+-- adidas Men's F10 Messi TRX FG Soccer Cleat (18236 sales)
+-- adidas Men's F10 Messi TRX FG Soccer Cleat (10477 sales)
+
+Adidas products are performing exceptionally well, particularly in the sportswear and footwear category.
+This suggests a strong customer preference for Adidas-branded sports items.
+
+**5. Sales by Region**
+- The highest sales come from Western Europe (30%) and Central America (30%).
+- Northern Europe (18%) and South America (16%) also contribute significantly.
+- Oceania (6%) has the lowest sales percentage, suggesting potential for market expansion.
+  
+**6. Department-wise Sales**
+- The Golf category (35%) dominates the department sales, followed by Footwear (20%) and Fitness (12%).
+- Fan shop (13%) and Apparel (12%) contribute moderately.
+- Outdoor (8%) has the least sales, indicating less demand for outdoor gear.
+  
+**7. Order Delivery Ratio**
+- 35% of orders are shipped on time, while 45% are late deliveries.
+- 15% of orders have advanced shipping, while 5% of orders were cancelled.
+- The high percentage of late deliveries (45%) could negatively impact customer satisfaction and retention.
+- Improving logistics and inventory management could help reduce late deliveries.
+
+## **Conclution**:
+
+The overall analysis begins with defining the core objective, which is to evaluate and enhance the performance of an e-commerce business by analysing key metrics related to sales, product demand, regional performance, and delivery efficiency. The approach involves identifying critical business questions, such as which products perform best, which regions generate the highest revenue, and how effectively deliveries are managed.
+
+To address these questions, data is gathered, processed, and visualised through an interactive dashboard. This dashboard serves as a comprehensive tool for tracking sales trends over time, monitoring customer engagement through product views, and assessing the contribution of different product categories and departments. Additionally, it provides insights into the efficiency of the supply chain by highlighting the order delivery ratio.
+
+The findings reveal that sales exhibit seasonality, with certain periods performing better than others. Product demand is concentrated in categories like fitness and footwear, with Adidas products leading in sales. Regional analysis shows Western Europe and Central America as dominant markets, while Oceania presents opportunities for growth. However, a significant challenge lies in delivery performance, as a large proportion of orders are delayed, potentially affecting customer satisfaction.
+
+In conclusion, the process from defining objectives to dashboard analysis provides actionable insights into the business’s strengths and weaknesses. While strong product categories and regional performance contribute to revenue, improving logistics and optimising marketing strategies for low-performing regions and time periods can further drive growth. The insights gained from this analysis can be used to make informed decisions that enhance operational efficiency, customer satisfaction, and overall business success.
 
 
 
