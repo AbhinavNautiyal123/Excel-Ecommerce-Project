@@ -64,12 +64,12 @@ The goal is to help businesses make smarter decisions about product management, 
 
 ## **EDA**
 
-### Q1. Calculate the average shipping delay (difference between 'Days for shipping (real)' and 'Days for shipment (scheduled)') for each product category.
+### **Q1. Calculate the average shipping delay (difference between 'Days for shipping (real)' and 'Days for shipment (scheduled)') for each product category.**
 ![image](https://github.com/user-attachments/assets/158a8c46-bd5c-4e5b-94f0-2c3984e7c727)
 
 The chart shows that "As Seen on TV" has the longest shipping delays, followed by Soccer, Crafts, and Pet Supplies. Music and Tennis & Racquet have the shortest delays. This suggests possible supply chain issues, high demand, or inventory problems in certain categories, impacting customer satisfaction and delivery efficiency.
 
-### Q2. Use COUNTIF and other functions to analyze the distribution of customers across different cities and countries.
+### **Q2. Use COUNTIF and other functions to analyze the distribution of customers across different cities and countries.**
 
 #### Top 20 Cities 
 ![image](https://github.com/user-attachments/assets/bc488043-fb71-470c-9daa-fcce95287dde)
@@ -78,6 +78,33 @@ The chart shows the distribution of customers across various cities, with Santo 
 #### Top 20 Countries
 ![image](https://github.com/user-attachments/assets/a7838270-33d2-4b8c-b99a-35ea0668d920)
 The chart displays the distribution of customers across different countries. The United States has the highest number of customers, followed by Mexico and France. Other countries such as Germany, Australia, Brazil, and the UK also have a significant number of customers. The customer count gradually decreases for countries like Indonesia, Spain, El Salvador, and the Dominican Republic, with Nigeria having the lowest number of customers among the listed countries. This suggests a strong market presence in North America and parts of Europe, with relatively lower engagement in some Asian and African countries.
+
+
+### **Q3 Analyze monthly sales trends over the years and identify peak sales months using date functions.**
+
+![image](https://github.com/user-attachments/assets/1d4bb362-ec2a-4738-8fb2-0a01d59453b1)
+
+- September 2017: Sales were relatively low at 662,852.70.
+- October 2017: A sharp increase in sales to 3,869,093.94, indicating a strong positive trend.
+- November 2017: Sales declined significantly to 1,252,248.04, suggesting a drop in demand or seasonal effects.
+- December 2017: Sales remained almost stable with a slight increase to 1,326,580.81.
+- January 2018: A significant spike in sales to 6,017,466.74, showing strong growth.
+This pattern suggests a possible seasonal effect, with a peak in October, a dip in November and December, and a major rise in January. This could be due to year-end promotions, new product launches, or other market dynamics.
+
+### **Q4 Identify the top 5 products with the highest sales.**
+
+![image](https://github.com/user-attachments/assets/c33869ab-df61-4d92-8085-6a852ac161f0)
+
+The Field & Stream Sportsman 16 Gun Fire Safe is a clear leader, while the other four products have relatively close sales figures. This insight could be useful for inventory planning, marketing strategies, or further analysis on what makes the top-selling product so successful.
+
+### **Q5 Develop an index to rate product popularity based on sales volume and frequency.**
+
+I have Calculated PPI(product Popularity index) using this formula 
+PPI = (Total Sales of Product × 0.5)+(Total Orders of Product × 0.5)
+![image](https://github.com/user-attachments/assets/5ac0d370-de55-4faa-9478-8d8bed49b229)
+
+
+
 
 
 
