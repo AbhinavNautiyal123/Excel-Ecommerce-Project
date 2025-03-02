@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d49eadf-a2c2-4791-b5fd-65a8f11e454b)
-
+![image](https://github.com/user-attachments/assets/f6d40df0-f31c-4653-adfa-c6a0be6c373b)
 
 # **Ecommerce Analytics Using Excel**
 
